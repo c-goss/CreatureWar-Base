@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Balrog()
+comment0.text=\r\n\ No-arg\ constructor\r\n\ Generates\ random\ strength\ between\ 5\ and\ 18\ and\ HP\ between\ 5\ and\ 20\r\n
+comment1.params=newHp\ newStrength
+comment1.target=Balrog(int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ @param\ newHp\ starting\ HP\r\n\ @param\ newStrength\ starting\ strength\r\n
+comment2.params=
+comment2.target=int\ dealDamage()
+comment2.text=\r\n\ Demon\ deals\ damage\ to\ its\ enemies\ with\ two\ attacks\r\n\ @return\ the\ amount\ of\ damage\ dealt\r\n
+numComments=3

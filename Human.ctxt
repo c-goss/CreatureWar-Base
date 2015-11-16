@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Human()
+comment0.text=\r\n\ No-arg\ constructor\r\n\ Generates\ random\ strength\ between\ 5\ and\ 18\ and\ HP\ between\ 5\ and\ 30\r\n
+comment1.params=newHp\ newStrength
+comment1.target=Human(int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ @param\ newHp\ starting\ HP\r\n\ @param\ newStrength\ starting\ strength\r\n
+numComments=2

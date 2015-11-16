@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elf()
+comment0.text=\r\n\ No-arg\ constructor\r\n\ Generates\ random\ strength\ between\ 5\ and\ 18\ and\ HP\ between\ 15\ and\ 25\r\n
+comment1.params=newHp\ newStrength
+comment1.target=Elf(int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ @param\ newHp\ starting\ HP\r\n\ @param\ newStrength\ starting\ strength\r\n
+comment2.params=
+comment2.target=int\ dealDamage()
+comment2.text=\r\n\ Amount\ of\ damage\ to\ be\ dealt\ to\ enemy\r\n\ @return\ the\ amount\ of\ damage\ dealt\r\n
+numComments=3
